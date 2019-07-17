@@ -1,5 +1,10 @@
 # VVolsGoLang
  VVol examples with GoLang
+ 
+Storage Container ID: 
+
+Requires:https://github.com/google/uuid
+go get github.com/google/uuid
 
 Get Default VVol Datastore Storage Container ID from FlashArray Array ID:
 
